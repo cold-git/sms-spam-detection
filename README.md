@@ -1,2 +1,3 @@
 # sms-spam-detection
-Binary classifier that labels an SMS as spam/scam or legitimate
+A trained SMS classifier that detects scam or spam messages using Scikit-learn in Python.
+Tools: Python, Scikit-learn, Pandas, NumPy
